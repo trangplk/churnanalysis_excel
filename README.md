@@ -1,4 +1,4 @@
-<img width="372" alt="Screenshot 2025-02-26 at 9 00 50 PM" src="https://github.com/user-attachments/assets/7f2e73f6-b734-4e53-8b76-ff6c29145f48" /># churnanalysis_excel
+# churnanalysis_excel
 # Databel Telecom Churn Analysis  
 
 ## Problem Statement  
