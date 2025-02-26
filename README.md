@@ -31,5 +31,6 @@ Databel, a telecom company, seeks to understand why customers churn and identify
 - **Customer Support for Seniors:** Provide dedicated customer service channels for senior customers, including in-person assistance or easy-to-access digital support.  
 - **Promote Credit Card Payments:** Encourage customers to switch to credit card payments through discounts, cashback, or waived fees.
 
-## Dashboard
+## Final Dashboard
+<img width="1389" alt="Screenshot 2025-02-26 at 9 06 54 PM" src="https://github.com/user-attachments/assets/8f4f3b42-e16e-4731-bf10-a7cdf784f75a" />
 
