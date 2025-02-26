@@ -6,21 +6,20 @@ Databel, a telecom company, seeks to understand why customers churn and identify
 
 ## Key Findings  
 1. 45.51% customers churned due to “Competitor”. Top 3 reasons related to competitor include “Competitor made better offer”, “Competitor had better devices” and “Competitor offered more data”. Besides, it’s also worth noticing that “Attitude of support person” ranked third among all reasons.
-<img width="449" alt="Screenshot 2025-02-26 at 9 01 40 PM" src="https://github.com/user-attachments/assets/eb79b760-856a-458b-9bae-aabbe5e2e024" />
+<img width="448" alt="Screenshot 2025-02-26 at 9 09 34 PM" src="https://github.com/user-attachments/assets/26472e6f-9a3d-4cb0-94f1-fce06211e951" />
 
 2. Churn rates vary by different states, with California having highest churn rate of 63.24%.
 
 <img width="464" alt="Screenshot 2025-02-26 at 9 01 51 PM" src="https://github.com/user-attachments/assets/5743f0c2-867c-4150-9dbf-f02094109fd3" />
 
 3. Individual customers are more likely to churn than group customers, with 33.85% and 6.51 % respectively.
-
-<img width="454" alt="Screenshot 2025-02-26 at 9 02 02 PM" src="https://github.com/user-attachments/assets/9f1ccd76-9fed-4b15-91ee-c48c69c5e11f" />
+<img width="456" alt="Screenshot 2025-02-26 at 9 09 50 PM" src="https://github.com/user-attachments/assets/0858dbdf-9866-4f5a-a9f6-54d0cf2d1cbc" />
 
 4. The senior group (64 and above) is more likely to churn than the young group. The 65-78 years old group has a churn rate of 36.6% while it is 43.8% for the 79-93 years old group.
-<img width="476" alt="Screenshot 2025-02-26 at 9 02 13 PM" src="https://github.com/user-attachments/assets/3c11e434-3493-4ca2-b23e-83207b7b4366" />
+<img width="475" alt="Screenshot 2025-02-26 at 9 10 08 PM" src="https://github.com/user-attachments/assets/9333bbf5-1bcb-4bad-bd42-da6f730d7eb5" />
 
 5.Credit card users are less likely to churn (14.5%) than customers with other payment method – direct debit (34.5%) and paper check (38%).  
-<img width="457" alt="Screenshot 2025-02-26 at 9 02 23 PM" src="https://github.com/user-attachments/assets/7b65f4cc-f420-4569-a755-d763103a02b2" />
+<img width="478" alt="Screenshot 2025-02-26 at 9 10 22 PM" src="https://github.com/user-attachments/assets/2360b8c7-7721-4ea0-a5fe-a9a019d45c5c" />
 
 
 ## Suggestions  
